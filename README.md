@@ -1,4 +1,4 @@
-# If you are learning React don't look at this code. Go to the [Ract Challenge](http://react-challenge-01.s3-website-us-west-2.amazonaws.com/react-toc/restaurant-app-toc) and work through the challenges. Look back here when you are done or very stuck.
+# TriValley Coders React Challenge Starter Project
 
 ## How to use
 1. [Join us on Slack](https://join.slack.com/t/trivalleycoders/shared_invite/enQtMjY5ODI5OTQzMDcyLWU5ZGI1MDMxNGMzYjk1NzBiMTZjOGQ5OWE4Zjg5MTU0NzgyNWE3N2RjMGJmODcxMzkyZGMwMTNmYjFhZDllZDY)
