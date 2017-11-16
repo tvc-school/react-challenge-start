@@ -13,9 +13,6 @@
   - What was most helpful
   - Where you got stuck
   - Something we didn't mention but you had to learn in order to accomplish a task
-## If you are going to look at the answers :(
-1. Look at the source code in this repository when you are done with a section or if you are very very stuck.
-1. Sections 2 - 7 in the [contents](http://react-challenge-01.s3-website-us-west-2.amazonaws.com/react-toc/restaurant-app-toc) correlate to the numbered folders in this repository
 
 
 License: MIT
